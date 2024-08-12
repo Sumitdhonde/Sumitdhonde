@@ -1,7 +1,9 @@
 # Hi there! I'm Sumit Dhonde 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer with a focus on web and mobile app development. Here you'll find a collection of my projects, skills, and contributions. 
-https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif
+
+![Example GIF](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
 ## 💫 About Me
 
 - 📫 **Email:** [sumitdhonde0@gmail.com](mailto:sumitdhonde0@gmail.com)
