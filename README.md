@@ -36,18 +36,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 - Code-up Community Co-Head
 - Founders Lab Club Head
 
-## Skills
-
-- **Languages & Frameworks:** React-Native, React, Node.js, Express.js, JavaScript, HTML, CSS, C, C++
-- **Databases:** MongoDB, SQL, Firebase
-- **Other Tools:** Docker
-
-## Certifications
-
-- VI - Introduction to Full Stack Web Development
-- MongoDB Certification - Aggregation with Node.js
-- Scalar - React.js
-
 
 ## Education
 
