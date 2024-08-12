@@ -11,9 +11,9 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 - 📞 **Phone:** +91 9307712303
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumitdhonde&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumitdhonde&theme=dracula&hide_border=false" alt="GitHub Streak" width="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitdhonde&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumitdhonde&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="300"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumitdhonde&theme=dracula&hide_border=false" alt="GitHub Streak" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitdhonde&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="300"/>
 </div>
 </p>
 ## Experience
